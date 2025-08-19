@@ -2,9 +2,7 @@ module EqUtils
 
 
 using StatsBase
-using Seis
 using CSV
-#using Signals
 using Dates
 using LinearAlgebra
 using Interpolations
@@ -17,8 +15,6 @@ using FFTW
 using Distributions
 using Random
 using StatsBase
-using Conv
-using TauPy
 
 
 
